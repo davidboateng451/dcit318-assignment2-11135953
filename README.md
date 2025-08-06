@@ -1,5 +1,4 @@
 # dcit318-assignment2-11135953
-# DCIT318 - Assignment 2
 
 Student ID: 11135953  
 Course: DCIT 318  
