@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\dcit318-assignment2-11135953\OOPInheritance\bin\Debug\OOPInheritance.exe.config
+C:\Users\hp\Desktop\dcit318-assignment2-11135953\OOPInheritance\bin\Debug\OOPInheritance.exe
+C:\Users\hp\Desktop\dcit318-assignment2-11135953\OOPInheritance\bin\Debug\OOPInheritance.pdb
+C:\Users\hp\Desktop\dcit318-assignment2-11135953\OOPInheritance\obj\Debug\OOPInheritance.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\dcit318-assignment2-11135953\OOPInheritance\obj\Debug\OOPInheritance.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\dcit318-assignment2-11135953\OOPInheritance\obj\Debug\OOPInheritance.exe
+C:\Users\hp\Desktop\dcit318-assignment2-11135953\OOPInheritance\obj\Debug\OOPInheritance.pdb
